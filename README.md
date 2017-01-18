@@ -27,6 +27,9 @@ are required to overwrite the same files provided by ST in the HAL firmware libr
 HAL firmware library v1.3.0 is the only version guaranteed to work with this software.
 In later versions (and certainly in v1.5.1) ST have changed code so it is not backwards compatible.
 
+Please note that the spectogram code is currently experimental. I have added the option to turn it off
+as the screen refresh causes some interferance.
+
 ARM_Radio is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
