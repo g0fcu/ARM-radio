@@ -2,10 +2,12 @@
 VLF/LF radio receiver implemented in the STM32F746-Nucleo board
 
 This project was initiated by Alberto di Bene, I2PHD, see www.weaksignals.com
-The first version written by Alberto ran on the STM32F429-Discovery board.
+ARM-radio section for more details including the paper describing the implementation
+theory. The first version written by Alberto ran on the STM32F429-Discovery board.
 
 Simon Kennedy, G0FCU, subsequently took the original code and converted to work 
-on the faster STM32F746-Nucleo board. The code in this repository works on the 
+on the faster STM32F746-Nucleo board, see www.g0fcu.com for blog posts related
+to this implementation. The code in this repository works on the 
 STM32F746-Nucleo board.
 
 This project implement a SDR (Software Defined Radio) using the STM32F746-Nucleo 
